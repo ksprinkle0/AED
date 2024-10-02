@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>overlay/aed.png</file>
+        <file>overlay/aedNoElectrode.png</file>
+        <file>buttons/powerButton.png</file>
+        <file>buttons/shockButton.png</file>
+        <file>indicators/lightOff.png</file>
+        <file>indicators/lightOn.png</file>
+        <file>indicators/statusNotOk.png</file>
+        <file>indicators/statusOff.png</file>
+        <file>indicators/statusOk.png</file>
+        <file>buttons/powerbuttonON.png</file>
+        <file>audio/CallForHelp.aiff</file>
+        <file>audio/CheckResponsiveness.aiff</file>
+        <file>audio/DefibPadsToChest.aiff</file>
+        <file>audio/DoNotTouchPatient.aiff</file>
+        <file>audio/NoShockAdvised.aiff</file>
+        <file>audio/ShockDelivering.aiff</file>
+        <file>audio/ShockTone.aiff</file>
+        <file>audio/StandClear.aiff</file>
+        <file>audio/StartCPR.aiff</file>
+        <file>audio/StayCalm.aiff</file>
+        <file>audio/StockDelivered.aiff</file>
+        <file>audio/StopCPR.aiff</file>
+        <file>shocks/nonShockable/asystole.png</file>
+        <file>shocks/nonShockable/sinus.png</file>
+        <file>shocks/shockable/vf.png</file>
+        <file>shocks/shockable/vt.png</file>
+        <file>aed.qrc</file>
+        <file>shocks/bar.png</file>
+        <file>audio/ShockAdvised.aiff</file>
+        <file>audio/UnitFailed.aiff</file>
+        <file>audio/UnitOkay.aiff</file>
+        <file>audio/ChangeBatteries.aiff</file>
+        <file>audio/pushHarder.aiff</file>
+        <file>audio/pushGently.aiff</file>
+        <file>audio/maintainDepth.aiff</file>
+    </qresource>
+</RCC>
